@@ -1,0 +1,7 @@
+{
+  "name": "example-app",
+  "version": "1.2.3",
+  "store": {
+    "bundle": { "version": "1.2.3" }
+  }
+}

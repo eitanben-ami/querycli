@@ -32,6 +32,9 @@ cd querycli
 python -m pip install -e .
 ```
 
+
+
+[View repository](https://github.com/eitanben-ami/querycli)
 ## Usage
 
 ```bash

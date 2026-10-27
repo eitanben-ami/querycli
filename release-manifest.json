@@ -1,0 +1,5 @@
+{
+  "app": "querycli",
+  "version": "2.0.0",
+  "store": { "version": "2.0.0" }
+}
